@@ -19,7 +19,11 @@ The following data questions each have a dashboard:
 DATA SOURCES
 
 https://wwwnc.cdc.gov/eid/article/17/1/p1-1101_article
+
 https://www.cdc.gov/foodsafety/ifsac/annual-reports.html
+
 https://www.fda.gov/food/outbreaks-foodborne-illness/foodborne-pathogens
+
 https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+
 https://wwwn.cdc.gov/norsdashboard/
