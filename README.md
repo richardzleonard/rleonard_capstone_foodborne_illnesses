@@ -9,7 +9,7 @@ Data was obtained from various sources (located under Data Sources), and some of
 
 PRESENTATION
 
-The following data questions each have a dashboard:
+The following data questions are explored in the Tableau presentation:
 - What are the general trends of foodborne illness over time in the US?
 - What is the general trend of foodborne illness in TN? How is this different from other states or the US as a whole?
 - What foodborne illness are associated with what foods? Are there certain food categories that are more commonly associated with foodborne illness than others?
