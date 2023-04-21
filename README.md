@@ -27,3 +27,7 @@ https://www.fda.gov/food/outbreaks-foodborne-illness/foodborne-pathogens
 https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
 
 https://wwwn.cdc.gov/norsdashboard/
+
+https://ourworldindata.org/coronavirus/country/canada?country=CAN~USA
+
+https://apps.who.int/foscollab/Download/DownloadConta
