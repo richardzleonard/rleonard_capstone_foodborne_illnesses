@@ -9,6 +9,8 @@ Data was obtained from various sources (located under Data Sources), and some of
 
 PRESENTATION
 
+The following link is my public tableau for the presentation: https://public.tableau.com/app/profile/richard.leonard2517/viz/rl_capstone_foodborne_illnesses/Story1#1
+
 The following data questions are explored in the Tableau presentation:
 - What are the general trends of foodborne illness over time in the US?
 - What is the general trend of foodborne illness in TN? How is this different from other states or the US as a whole?
