@@ -1,4 +1,4 @@
-# rleonard_capstone
+# Foodborne Illness in the US
 INTRODUCTION
 
 This project is an exploratory analysis of foodborne illness outbreaks in the US and what foods are associated with them. These patterns will be broken down at the state level, and Tennessee specifically will be compared to other states and the nation as a whole. Outbreaks will also be examined by food categories to show which types of foods are more commonly associated with these illnesses. Time periods during which more people are staying inside, such as during COVID, will also be examined to quantify changes in trends of these outbreaks. 
